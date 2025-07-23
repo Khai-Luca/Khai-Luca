@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7202D6&vCenter=true&width=435&lines=Hi%2C+my+name+is+Khai+Luca!;I'm+a+Front-End+Development+student+;Welcome!+%3A))](https://git.io/typing-svg)
-
 <!--
 **Khai-Luca/Khai-Luca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
