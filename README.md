@@ -10,6 +10,11 @@
 
 ###
 
+
+
+
+###
+
 <h2 align="left">🖥 Stacks</h2>
 
 ###
@@ -74,28 +79,25 @@
 </div>
 
 ###
-<img align="right" width="500" height="500" alt="2c1c0367712d116e80d87826050be330-removebg-preview" src="https://github.com/user-attachments/assets/d8f4b0f8-468d-4a60-80a6-a4164c07d62f" />
+<img align="right" width="400" height="500" alt="2c1c0367712d116e80d87826050be330-removebg-preview" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 
 ###
 
-<p align="left">I am a Systems Analysis and Development student transitioning into front-end development. I have been focusing my studies on HTML, CSS, and JavaScript,  and I am beginning to learn React, Tailwind CSS, Netlify, and GitHub, aiming<br> to build a solid foundation in these technologies.<br><br>    I have a strong interest in accessibility and responsiveness, believing that web applications should be inclusive and functional across different devices.<br>    Additionally, I work with digital design using Figma, which helps me align aesthetics and usability in my projects.<br><br>    My goal is to transform all my learning into real projects, always paying attention to accessibility and best practices, as I believe technology should be for everyone.   I am committed to continuous growth and value practical learning throughout this journey.</p>
+<p align="left">I am a Systems Analysis and Development student transitioning into front-end development. I have been focusing my studies on HTML, CSS, and JavaScript, <br>  and I am beginning to learn React, Tailwind CSS, Netlify, and GitHub, aiming<br> to build a solid foundation in these technologies.<br><br>    I have a strong interest in accessibility and responsiveness, believing that web applications should be inclusive and functional across different devices.<br>    Additionally, I work with digital design using Figma, which helps me<br> align aesthetics and usability in my projects. 
 
 ###
 
-
-###
 
 <p align="left">Feel welcome to get in touch via email or LinkedIn.</p>
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="mailto:khailucadev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/khailuca/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
+<a href="https://x.com/khailucadev" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Twitter-4B0082?style=for-the-badge&logo=x&logoColor=fff" target="_blank"></a>
+<a href="mailto:khailucadev@gmail.com" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/-Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
 
 ###
 
