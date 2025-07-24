@@ -62,6 +62,8 @@
 
 ###
 
+<
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
@@ -73,31 +75,28 @@
 </div>
 
 ###
+<img align="right" width="500" height="500" alt="2c1c0367712d116e80d87826050be330-removebg-preview" src="https://github.com/user-attachments/assets/d8f4b0f8-468d-4a60-80a6-a4164c07d62f" />
 
-<table>
-  <tr>
-    <td width="70%">
-
-   
-  <p align="left" style="max-width: 600px;">
-    I am a Systems Analysis and Development student transitioning into front-end <br>development.
-    I have been focusing my studies on HTML, CSS, and JavaScript, <br> and I am beginning to learn React, Tailwind CSS, Netlify, and GitHub, aiming<br> to build a solid foundation in these technologies.<br><br>
-    I have a strong interest in accessibility and responsiveness, believing that web<br> applications should be inclusive and functional across different devices. <br>
-    Additionally, I work with digital design using Figma, which helps me <br>align aesthetics and usability in my projects.<br><br>
-    My goal is to transform all my learning into real projects, always paying<br> attention to accessibility and best practices, as I believe technology<br> should be for everyone. 
-    I am committed to continuous growth and<br> value practical learning throughout this journey.<br><br>
-    Feel free to connect with me on LinkedIn and follow my professional growth.
-  </p>
-  </td>
-    <td width="30%" align="center">
-      <img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/c36f252e-b4bc-44bf-9d26-2df0699e804a" />
-
-
-
-</td>
-  </tr>
-</table>
 
 ###
 
+<p align="left">I am a Systems Analysis and Development student transitioning into front-end development. I have been focusing my studies on HTML, CSS, and JavaScript,  and I am beginning to learn React, Tailwind CSS, Netlify, and GitHub, aiming<br> to build a solid foundation in these technologies.<br><br>    I have a strong interest in accessibility and responsiveness, believing that web applications should be inclusive and functional across different devices.<br>    Additionally, I work with digital design using Figma, which helps me align aesthetics and usability in my projects.<br><br>    My goal is to transform all my learning into real projects, always paying attention to accessibility and best practices, as I believe technology should be for everyone.   I am committed to continuous growth and value practical learning throughout this journey.</p>
+
+###
+
+
+###
+
+<p align="left">Feel welcome to get in touch via email or LinkedIn.</p>
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="mailto:khailucadev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
