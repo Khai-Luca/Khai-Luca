@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=7202D6&vCenter=true&width=665&lines=Hi%2C+my+name+is+Khai+Luca!;I'm+a+Front-End+Development+student.;Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=9300FF&vCenter=true&width=835&lines=Hi%2C+my+name+is+Khai+Luca!;I'm+a+Front-End+Development+Student.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ###
 
@@ -7,11 +9,6 @@
 ###
 
 <p align="left">📍 I'm from Brazil<br>🎓 Currently pursuing a degree in Systems Analysis and Development.<br>🎬 Transitioning from a background in motion design and photography to tech.<br>🌍  I’m fluent in English and have intermediate proficiency in Spanish, as well as basic knowledge of German and French.</p>
-
-###
-
-
-
 
 ###
 
@@ -34,6 +31,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
+
+###
+
+<img align="right" width="500" height="600" alt="2c1c0367712d116e80d87826050be330-removebg-preview" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 ###
 
@@ -79,17 +80,17 @@
 </div>
 
 ###
-<img align="right" width="400" height="500" alt="2c1c0367712d116e80d87826050be330-removebg-preview" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-
-###
-
-<p align="left">I am a Systems Analysis and Development student transitioning into front-end development. I have been focusing my studies on HTML, CSS, and JavaScript, <br>  and I am beginning to learn React, Tailwind CSS, Netlify, and GitHub, aiming<br> to build a solid foundation in these technologies.<br><br>    I have a strong interest in accessibility and responsiveness, believing that web applications should be inclusive and functional across different devices.<br>    Additionally, I work with digital design using Figma, which helps me<br> align aesthetics and usability in my projects. 
+<img width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 ###
 
+<p align="left"> 💻 I am a Systems Analysis and Development student transitioning into front-end development. I have been focusing my studies on HTML, CSS, and JavaScript, and I am beginning to learn React, Tailwind CSS, Netlify, and GitHub, aiming<br> to build a solid foundation in these technologies.<br><br> ♿ I have a strong interest in accessibility and responsiveness, believing that web applications should be inclusive and functional across different devices.<br><br> 🎨 Additionally, I work with digital design using Figma, which helps me align aesthetics and usability in my projects.</p>
 
-<p align="left">Feel welcome to get in touch via email or LinkedIn.</p>
+###
+
+
+<p align="left">📫 Feel welcome to get in touch via email or LinkedIn.</p>
 
 <br clear="both">
 
