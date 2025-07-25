@@ -1,4 +1,5 @@
-
+[🌐 Leia em Português](README.pt.md)
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=9300FF&vCenter=true&width=835&lines=Hi%2C+my+name+is+Khai+Luca!;I'm+a+Front-End+Development+Student.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
@@ -8,7 +9,7 @@
 
 ###
 
-<p align="left">📍 I'm from Brazil<br>🎓 Currently pursuing a degree in Systems Analysis and Development.<br>🎬 Transitioning from a background in motion design and photography to tech.<br>🌍  I’m fluent in English and have intermediate proficiency in Spanish, as well as basic knowledge of German and French.</p>
+<p align="left">📍 I'm from Brazil.<br>🎓 Currently pursuing a degree in Systems Analysis and Development.<br>🎬 Transitioning from a background in motion design and photography to tech.<br>🌍  I’m fluent in English and have intermediate proficiency in Spanish, as well as basic knowledge of German and French.</p>
 
 ###
 
